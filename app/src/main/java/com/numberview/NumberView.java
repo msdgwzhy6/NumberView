@@ -121,7 +121,8 @@ public class NumberView extends View {
             //最大进度时是宽度减去一个padding
             canvas.drawLine(padding, mheight / 2, mwidth - padding, mheight / 2, mPaint);
         } else if (mCurrentProgress == 0) {
-            canvas.drawLine(padding, mheight / 2, padding + 1, mheight / 2, mPaint);
+            canvas.drawLine(padding, mheight / 2, padding, mheight / 2, mPaint);
+//            canvas.drawLine(padding, mheight / 2, padding+1, mheight / 2, mPaint);
         }
 
 
