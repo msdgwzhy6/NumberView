@@ -3,7 +3,7 @@
 
 为了能向高级工程师进阶，还在默默的学习自定义view，今天给大家送上自定义view————进度条，注意哦！！！是带进度值的进度条条
 
-![效果图](/images/numberview.gif)
+![效果图](https://github.com/madreain/AndroidNotes/blob/master/images/numberview.gif)
 
 首先分析效果图，由三部分组成，一个底部的全进度，一个进度变化的进度，一个进度值，接下来就去画
 
