@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberView">
+        <attr name="backgroudColor" format="color"/>
+        <attr name="defaultStrokeWidth" format="float"/>
+        <attr name="mColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="textsize" format="float"/>
+        <attr name="padding" format="float"/>
+        <attr name="mMaxProgress" format="integer"/>
+    </declare-styleable>
+</resources>
